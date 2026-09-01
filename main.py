@@ -19,7 +19,7 @@ from ai.analyst import run_analysis, save_report
 
 BANNER = """
 ╔══════════════════════════════════════════════╗
-║      Oracle Legacy → AI Analyst  v1.0       ║
+║      Oracle Legacy → AI Analyst  v1.0        ║
 ║  Legacy Data  │  PII Security  │  Claude AI  ║
 ╚══════════════════════════════════════════════╝
 """
