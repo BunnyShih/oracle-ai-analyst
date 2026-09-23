@@ -53,7 +53,7 @@ No raw PII is ever sent to the Claude API.
 
 ### 1. Clone & install
 ```bash
-git clone https://github.com/yourname/oracle-ai-analyst
+git clone https://github.com/BunnyShih/oracle-ai-analyst
 cd oracle-ai-analyst
 
 # (recommended) create a virtual environment
